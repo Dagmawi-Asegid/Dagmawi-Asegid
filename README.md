@@ -5,6 +5,11 @@
 🔭 Currently building: [portfolio](https://github.com/Dagmawi-Asegid/portfolio) and the [Vassar Africans Student Association website](https://github.com/Dagmawi-Asegid/vassar-africans)<br>
 🌱 Always exploring new tools across web, data, and mobile
 
+## 🌐 Connect with Me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dagmawi-asegid-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dagmawi-asegid-a036003a5)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagmawi2219@gmail.com)
+
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
