@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 🎓 CS & Math student @ Vassar College<br>
-🔭 Currently building: [employee management system](https://github.com/Dagmawi-Asegid/employee-management-system)<br>
+🔭 Currently building: [EMS (Employee Management System)](https://github.com/Dagmawi-Asegid/employee-management-system) with Spring Boot<br>
 🎨 Portfolio: [portfolio](https://github.com/Dagmawi-Asegid/portfolio)<br>
 🌱 Always exploring new tools across web, data, and mobile
 
